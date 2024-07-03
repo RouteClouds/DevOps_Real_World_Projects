@@ -4,7 +4,7 @@
 
 ```bash
 git clone https://github.com/RouteClouds/DevOps_Real_World_Projects.git
-cd code-test-upwork
+cd project_1
 mkdir -p .github/workflows
 echo "private_key" > .gitignore
 echo ".env" >> .gitignore
@@ -12,7 +12,7 @@ echo ".env" >> .gitignore
 
 ### 2. GitHub Actions Workflow
 
-Create `.github/workflows/deploy.yml`:
+Create `.github/workflows/deploy_1.yml`:
 
 ```yaml
 name: Deploy to EC2
