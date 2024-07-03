@@ -3,7 +3,7 @@
 ### 1. Local Environment Setup
 
 ```bash
-git clone https://github.com/awsfreetier30/code-test-upwork.git
+git clone https://github.com/RouteClouds/DevOps_Real_World_Projects.git
 cd code-test-upwork
 mkdir -p .github/workflows
 echo "private_key" > .gitignore
